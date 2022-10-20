@@ -2,7 +2,7 @@
 
 Submitted by: **Tran Nguyen**
 
-**Name of your app** is a health metrics app that allows users to track food and calories stats
+**BitFit** is a health metrics app that allows users to track food and calories stats
 
 Time spent: **6** hours spent in total
 
